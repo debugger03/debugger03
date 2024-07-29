@@ -60,3 +60,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
 <a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a></p>
 </details>
+
+<h3 align="left">GitHub Streak:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debugger03&" alt="debugger03" />
+</p>
