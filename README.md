@@ -18,6 +18,11 @@
 <h3 align="left">🔗 &nbsp;**Connect with me**</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thehamzatariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thehamzatariq/" height="30" width="40" /></a>
+  <a href="https://wa.me/03156189365" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+
+
 </p>
 
 <details>
